@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Plane.png</file>
+        <file>icons/Gps.png</file>
+        <file>icons/Power.png</file>
+        <file>icons/Server.png</file>
+        <file>icons/Telemetry.png</file>
+        <file>icons/HomePage.png</file>
+        <file>icons/LightMode.png</file>
+        <file>icons/DarkMode.png</file>
+        <file>icons/Menu.png</file>
+        <file>icons/Login.png</file>
+        <file>icons/Checklist.png</file>
+        <file>icons/Simulasyon.png</file>
+    </qresource>
+</RCC>

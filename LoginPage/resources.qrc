@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Plane.png</file>
+        <file>icons/Gps.png</file>
+        <file>icons/Power.png</file>
+        <file>icons/Server.png</file>
+        <file>icons/Telemetry.png</file>
+        <file>icons/HomePage.png</file>
+        <file>icons/LightMode.png</file>
+        <file>icons/DarkMode.png</file>
+        <file>icons/Menu.png</file>
+        <file>icons/Login.png</file>
+        <file>icons/Checklist.png</file>
+        <file>icons/Simulasyon.png</file>
+        <file>icons/enemy.png</file>
+        <file>icons/landed.png</file>
+        <file>icons/iha.png</file>
+        <file>icons/qr.png</file>
+        <file>Map.qml</file>
+    </qresource>
+</RCC>

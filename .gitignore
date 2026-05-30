@@ -1,0 +1,40 @@
+# Build folders
+build/
+*/build/
+*-Debug/
+*-Release/
+Desktop_Qt_*/
+cmake-build-*/
+
+# Qt generated files
+*.pro.user
+*.pro.user.*
+.qmake.stash
+Makefile
+moc_*
+ui_*.h
+qrc_*.cpp
+
+# Object / binary files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+mediamtx
+
+# Logs / cache
+logs/
+*.log
+osm_cache/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local executable binaries
+/LoginPage/LoginPage
+/MainPage/LoginPage
