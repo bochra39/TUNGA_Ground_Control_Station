@@ -13,7 +13,7 @@ The application provides a unified interface for UAV monitoring, telemetry, miss
 - Camera and video stream integration
 - Lock-on and autonomous mission control
 - Competition server communication
-- - Rival UAV tracking and analysis with concurrent telemetry and map visualization for approximately **40 aircraft**
+- Rival UAV tracking and analysis with concurrent telemetry and map visualization for approximately **40 aircraft**
 - Telemetry transmission and reception
 - Simulation support
 - Mission checklist interface
