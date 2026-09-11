@@ -1,3 +1,42 @@
+# IDE / clangd
+.qtc_clangd/
+*/.qtc_clangd/
+
+# Build outputs
+build/
+*/build/
+Makefile
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
+# Qt generated files
+*.pro.user
+*.pro.user.*
+.qmake.stash
+moc_*
+ui_*.h
+qrc_*.cpp
+
+# Logs / telemetry
+logs/
+*.log
+*.tlog
+*.tlog.raw
+
+# Cache
+osm_cache/
+
+# Archives / downloaded binaries
+*.tar.gz
+*.tar.gz.*
+
+# Local executables
+CheckListPage/Checklist
+MainPage/MainPage 
 # Build folders
 build/
 */build/

@@ -1,14 +1,18 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>test_pkg</name>
-  <version>0.0.0</version>
-  <description>Test package</description>
-  <maintainer email="oguz@example.com">Oguz</maintainer>
+  <name>tunga_ground_control_station</name>
+  <version>1.0.0</version>
+  <description>TUNGA Ground Control Station for UAV monitoring, telemetry, mission control and simulation.</description>
+
+  <maintainer email="114873035+bochra39@users.noreply.github.com">Bochra Nettour</maintainer>
+
   <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <build_depend>tf</build_depend>
-  <exec_depend>tf</exec_depend>
 
-  <!-- Diğer bağımlılıklarınız varsa buraya ekleyin -->
-</package> 
+  <build_depend>roscpp</build_depend>
+  <build_depend>tf</build_depend>
+
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>tf</exec_depend>
+</package>
